@@ -1,24 +1,19 @@
 {
-    "id": 57436521,
+    "id": 65943023,
     "name": "The Hell Sorcerer",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "author": "eightos",
+    "creators": ["eightos"],
+    "verifier": "Zoink",
+    "verification": "https://youtu.be/HSr1OudpG2Y",
+    "percentToQualify": "30",
+    "password": "6767",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "user": "wPopoff",
+            "link": "https://youtu.be/HSr1OudpG2Y",
+            "percent": 41,
+            "hz": 480
+      
         }
     ]
 }
