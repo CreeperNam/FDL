@@ -1,0 +1,18 @@
+{
+    "id": 102647436,
+    "name": "Aeternus",
+    "author": "ryamu",
+    "creators": ["Riot"],
+    "verifier": "wPopoff",
+    "verification": "https://www.youtube.com/watch?v=XjypbEY_2Aw",
+    "percentToQualify": 28,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "nSwish",
+            "link": "https://www.youtube.com/watch?v=XjypbEY_2Aw",
+            "percent": 29,
+            "hz": 360
+        }
+    ]
+}
