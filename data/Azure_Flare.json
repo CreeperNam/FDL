@@ -1,0 +1,24 @@
+{
+    "id": 126344104,
+    "name": "Azure Flare",
+    "author": "FINALBOSS101",
+    "creators": ["EndLevel", "iIiViRuZiIi and 2 more"],
+    "verifier": "Cuatrocientos",
+    "verification": "https://youtu.be/mAJG_i9Vziw",
+    "percentToQualify": "25",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "VERTOP",
+            "link": "https://youtu.be/mAJG_i9Vziw",
+            "percent": 81,
+            "hz": 360
+        },
+       {
+            "user": "Xtra8nuggies",
+            "link": "https://youtu.be/mAJG_i9Vziw",
+            "percent": 34,
+            "hz": 360
+        }
+    ]
+}
