@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/ZMaLs8W4LpI",
     "percentToQualify": "41",
     "password": "Free To Copy",
-    "records": [
+    "records": [ 
+        {
+            "user": "zLevii",
+            "link": "https://youtu.be/ZMaLs8W4LpI",
+            "percent": 38,
+            "hz": 360
+        }
     ]
 }
