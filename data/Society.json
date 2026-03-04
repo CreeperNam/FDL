@@ -11,7 +11,13 @@
          {
             "user": "zLevii",
             "link": "https://www.youtube.com/watch?v=WgbFvp6WfyY",
-            "percent": 32,
+            "percent": 53,
+            "hz": 360
+        },
+         {
+            "user": "Kaza",
+            "link": "https://www.youtube.com/watch?v=WgbFvp6WfyY",
+            "percent": 29,
             "hz": 360
         }
     ]
