@@ -1,0 +1,36 @@
+{
+    "id": 78614226,
+    "name": "Silent Clubstep II",
+    "author": "TheRealSailent",
+    "creators": [],
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/mCj_PjC3rs0",
+    "percentToQualify": "39",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "nSwish",
+            "link": "https://youtu.be/mCj_PjC3rs0",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Skittle Catastrophe",
+            "link": "https://youtu.be/mCj_PjC3rs0",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "VERTOP",
+            "link": "https://youtu.be/mCj_PjC3rs0",
+            "percent": 71,
+            "hz": 360
+        },
+       {
+            "user": "Zoink",
+            "link": "https://youtu.be/mCj_PjC3rs0",
+            "percent": 56,
+            "hz": 360
+        }
+    ]
+}
