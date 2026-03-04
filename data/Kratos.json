@@ -8,5 +8,23 @@
     "percentToQualify": "29",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Cursed",
+            "link": "https://youtu.be/uLN_Of9HtQg",
+            "percent": 47,
+            "hz": 360
+        },
+         {
+            "user": "Zoink",
+            "link": "https://youtu.be/uLN_Of9HtQg",
+            "percent": 34,
+            "hz": 360
+        },
+         {
+            "user": "w3rty",
+            "link": "https://youtu.be/uLN_Of9HtQg",
+            "percent": 30,
+            "hz": 360
+        }
     ]
 }
