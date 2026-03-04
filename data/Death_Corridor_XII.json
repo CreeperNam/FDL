@@ -8,5 +8,11 @@
     "percentToQualify": "35",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "nSwish",
+            "link": "https://www.youtube.com/watch?v=9JXspKZBCaM",
+            "percent": 46,
+            "hz": 360
+        }
     ]
 }
