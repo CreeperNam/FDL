@@ -8,5 +8,41 @@
     "percentToQualify": "42",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "wPopoff",
+            "link": "https://youtu.be/fnz9ddZjIGc",
+            "percent": 100,
+            "hz": 360
+        },
+         {
+            "user": "Netermind",
+            "link": "https://youtu.be/fnz9ddZjIGc",
+            "percent": 100,
+            "hz": 360
+        }
+         {
+            "user": "Trick",
+            "link": "https://youtu.be/fnz9ddZjIGc",
+            "percent": 91,
+            "hz": 360
+        },
+         {
+            "user": "nSwish",
+            "link": "https://youtu.be/fnz9ddZjIGc",
+            "percent": 83,
+            "hz": 360
+        },
+         {
+            "user": "Cuatrocientos",
+            "link": "https://youtu.be/fnz9ddZjIGc",
+            "percent": 75,
+            "hz": 360
+        },
+         {
+            "user": "Xtra8nuggies",
+            "link": "https://youtu.be/fnz9ddZjIGc",
+            "percent": 62,
+            "hz": 240
+        }
     ]
 }
