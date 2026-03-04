@@ -1,0 +1,36 @@
+{
+    "id": 91196248,
+    "name": "Pyrophoric",
+    "author": "AnonIIExt",
+    "creators": [],
+    "verifier": "Cursed",
+    "verification": "https://youtu.be/7j7FV-705Bc",
+    "percentToQualify": "45",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "wPopoff",
+            "link": "https://youtu.be/7j7FV-705Bc",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "nSwish",
+            "link": "https://youtu.be/7j7FV-705Bc",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Trick",
+            "link": "https://youtu.be/7j7FV-705Bc",
+            "percent": 71,
+            "hz": 360
+        },
+       {
+            "user": "Netermind",
+            "link": "hhttps://youtu.be/7j7FV-705Bc",
+            "percent": 46,
+            "hz": 360
+        }
+    ]
+}
