@@ -1,0 +1,30 @@
+{
+    "id": 102801565,
+    "name": "Society",
+    "author": "DeathStorm389",
+    "creators": [],
+    "verifier": "Trick",
+    "verification": "https://youtu.be/TaZdagdFubk",
+    "percentToQualify": "35",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "w3rty",
+            "link": "https://youtu.be/TaZdagdFubk",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Septagon7",
+            "link": "https://youtu.be/TaZdagdFubk",
+            "percent": 93,
+            "hz": 360
+        },
+       {
+            "user": "Zoink",
+            "link": "https://youtu.be/TaZdagdFubk",
+            "percent": 75,
+            "hz": 360
+        }
+    ]
+}
