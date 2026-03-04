@@ -1,0 +1,42 @@
+{
+    "id": 101140159,
+    "name": "Malediction",
+    "author": "AnonIIExt",
+    "creators": [],
+    "verifier": "Netermind",
+    "verification": "https://youtu.be/QNaZztAb3EA",
+    "percentToQualify": "41",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "nSwish",
+            "link": "https://youtu.be/QNaZztAb3EA",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "wPopoff",
+            "link": "https://youtu.be/QNaZztAb3EA",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Zoink",
+            "link": "https://youtu.be/QNaZztAb3EA",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Trick",
+            "link": "https://youtu.be/QNaZztAb3EA",
+            "percent": 100,
+            "hz": 360
+        },
+       {
+            "user": "Skittle Catastrophe",
+            "link": "https://youtu.be/QNaZztAb3EA",
+            "percent": 94,
+            "hz": 360
+        }
+    ]
+}
