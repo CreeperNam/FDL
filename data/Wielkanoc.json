@@ -1,1 +1,18 @@
-
+{
+    "id": 113627998,
+    "name": "Wielkanoc",
+    "author": "janucha",
+    "creators": [],
+    "verifier": "Kaza",
+    "verification": "https://youtu.be/OGVzY5kA3jY",
+    "percentToQualify": "41",
+    "password": "Free To Copy",
+    "records": [
+       {
+            "user": "wPopoff",
+            "link": "https://youtu.be/OGVzY5kA3jY",
+            "percent": 86,
+            "hz": 360
+       }
+    ]
+}
